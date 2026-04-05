@@ -18,11 +18,17 @@ The goal is to identify customers who are likely to leave and help businesses ta
 
 ## 📂 Dataset
 The dataset contains telecom customer information such as:
-- Account details
-- Call usage (day, evening, night)
-- Customer service interactions
-- International plan usage
-- Churn (Target variable)
+- Customer Age
+- Gender
+- Tenure
+- Monthly Charges
+- Total Charges
+- Contract Type
+- Payment Method
+- Internet Service
+- Tech Support
+- Online Security
+- Customer Support Calls
 
  
 
